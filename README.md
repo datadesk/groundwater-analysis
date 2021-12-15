@@ -2,7 +2,7 @@
 
 By Gabrielle LaMarr LeMee
 
-This analysis was developed for the November 16, 2021, Los Angeles Times story TBD.
+This analysis was developed for the November 16, 2021, Los Angeles Times story <a href="latimes.com/projects/california-farms-water-wells-drought">"A frenzy of well drilling is depleting aquifers in California farmland"</a>.
 
 It looks at agriculture well drilling trends, groundwater level declines, and prevalence of dry wells across the San Joaquin Valley basin.
 
